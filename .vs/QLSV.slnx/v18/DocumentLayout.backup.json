@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BAITAP\\15101\\QLSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{012C7072-57A0-10CD-20E0-7798786F8341}|QLSV.DAL\\QLSV.DAL.csproj|c:\\baitap\\15101\\qlsv\\qlsv.dal\\migrations\\20261015070405_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C7072-57A0-10CD-20E0-7798786F8341}|QLSV.DAL\\QLSV.DAL.csproj|solutionrelative:qlsv.dal\\migrations\\20261015070405_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C7072-57A0-10CD-20E0-7798786F8341}|QLSV.DAL\\QLSV.DAL.csproj|c:\\baitap\\15101\\qlsv\\qlsv.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C7072-57A0-10CD-20E0-7798786F8341}|QLSV.DAL\\QLSV.DAL.csproj|solutionrelative:qlsv.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2A31D4-A8A8-BAFF-8FC3-53D30C893885}|QLSV.UI\\QLSV.UI.csproj|c:\\baitap\\15101\\qlsv\\qlsv.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2A31D4-A8A8-BAFF-8FC3-53D30C893885}|QLSV.UI\\QLSV.UI.csproj|solutionrelative:qlsv.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C7072-57A0-10CD-20E0-7798786F8341}|QLSV.DAL\\QLSV.DAL.csproj|c:\\baitap\\15101\\qlsv\\qlsv.dal\\qlsv.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{012C7072-57A0-10CD-20E0-7798786F8341}|QLSV.DAL\\QLSV.DAL.csproj|solutionrelative:qlsv.dal\\qlsv.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2A31D4-A8A8-BAFF-8FC3-53D30C893885}|QLSV.UI\\QLSV.UI.csproj|C:\\BAITAP\\15101\\QLSV\\qlsv.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF2A31D4-A8A8-BAFF-8FC3-53D30C893885}|QLSV.UI\\QLSV.UI.csproj|solutionrelative:qlsv.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099A52FE-7F17-882E-26D0-0020CC44DBFF}|QLSV.BLL\\QLSV.BLL.csproj|c:\\baitap\\15101\\qlsv\\qlsv.bll\\qlsv.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{099A52FE-7F17-882E-26D0-0020CC44DBFF}|QLSV.BLL\\QLSV.BLL.csproj|solutionrelative:qlsv.bll\\qlsv.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099A52FE-7F17-882E-26D0-0020CC44DBFF}|QLSV.BLL\\QLSV.BLL.csproj|c:\\baitap\\15101\\qlsv\\qlsv.bll\\studentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099A52FE-7F17-882E-26D0-0020CC44DBFF}|QLSV.BLL\\QLSV.BLL.csproj|solutionrelative:qlsv.bll\\studentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2A31D4-A8A8-BAFF-8FC3-53D30C893885}|QLSV.UI\\QLSV.UI.csproj|c:\\baitap\\15101\\qlsv\\qlsv.ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2A31D4-A8A8-BAFF-8FC3-53D30C893885}|QLSV.UI\\QLSV.UI.csproj|solutionrelative:qlsv.ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261015070405_InitialCreate.cs",
+              "DocumentMoniker": "C:\\BAITAP\\15101\\QLSV\\QLSV.DAL\\Migrations\\20261015070405_InitialCreate.cs",
+              "RelativeDocumentMoniker": "QLSV.DAL\\Migrations\\20261015070405_InitialCreate.cs",
+              "ToolTip": "C:\\BAITAP\\15101\\QLSV\\QLSV.DAL\\Migrations\\20261015070405_InitialCreate.cs",
+              "RelativeToolTip": "QLSV.DAL\\Migrations\\20261015070405_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T07:04:05.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QLSV.DAL.csproj",
+              "DocumentMoniker": "C:\\BAITAP\\15101\\QLSV\\QLSV.DAL\\QLSV.DAL.csproj",
+              "RelativeDocumentMoniker": "QLSV.DAL\\QLSV.DAL.csproj",
+              "ToolTip": "C:\\BAITAP\\15101\\QLSV\\QLSV.DAL\\QLSV.DAL.csproj",
+              "RelativeToolTip": "QLSV.DAL\\QLSV.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-15T06:48:23.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\BAITAP\\15101\\QLSV\\QLSV.DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "QLSV.DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\BAITAP\\15101\\QLSV\\QLSV.DAL\\AppDbContext.cs",
+              "RelativeToolTip": "QLSV.DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T06:51:36.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QLSV.BLL.csproj",
+              "DocumentMoniker": "C:\\BAITAP\\15101\\QLSV\\QLSV.BLL\\QLSV.BLL.csproj",
+              "RelativeDocumentMoniker": "QLSV.BLL\\QLSV.BLL.csproj",
+              "ToolTip": "C:\\BAITAP\\15101\\QLSV\\QLSV.BLL\\QLSV.BLL.csproj",
+              "RelativeToolTip": "QLSV.BLL\\QLSV.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-15T06:40:54.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\BAITAP\\15101\\QLSV\\QLSV.UI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "QLSV.UI\\Form1.Designer.cs",
+              "ToolTip": "C:\\BAITAP\\15101\\QLSV\\QLSV.UI\\Form1.Designer.cs",
+              "RelativeToolTip": "QLSV.UI\\Form1.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T06:28:31.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\BAITAP\\15101\\QLSV\\QLSV.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "QLSV.UI\\Form1.cs",
+              "ToolTip": "C:\\BAITAP\\15101\\QLSV\\QLSV.UI\\Form1.cs",
+              "RelativeToolTip": "QLSV.UI\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T04:19:36.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\BAITAP\\15101\\QLSV\\QLSV.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "QLSV.UI\\Form1.cs",
+              "ToolTip": "C:\\BAITAP\\15101\\QLSV\\QLSV.UI\\Form1.cs [Design]",
+              "RelativeToolTip": "QLSV.UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T03:51:44.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentBLL.cs",
+              "DocumentMoniker": "C:\\BAITAP\\15101\\QLSV\\QLSV.BLL\\StudentBLL.cs",
+              "RelativeDocumentMoniker": "QLSV.BLL\\StudentBLL.cs",
+              "ToolTip": "C:\\BAITAP\\15101\\QLSV\\QLSV.BLL\\StudentBLL.cs",
+              "RelativeToolTip": "QLSV.BLL\\StudentBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T03:50:25.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
